@@ -1,0 +1,42 @@
+[
+  {
+    "subregion": "South America",
+    "idiomaPrincipal": "Portuguese",
+    "nombreComun": "Brazil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "poblacion": 212559409
+  },
+  {
+    "subregion": "South America",
+    "idiomaPrincipal": "Spanish",
+    "nombreComun": "Colombia",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "poblacion": 50882884
+  },
+  {
+    "subregion": "Caribbean",
+    "idiomaPrincipal": "Spanish",
+    "nombreComun": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "poblacion": 10847904
+  },
+  {
+    "subregion": "North America",
+    "idiomaPrincipal": "English",
+    "nombreComun": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "poblacion": 38005238
+  },
+  {
+    "subregion": "North America",
+    "idiomaPrincipal": "Spanish",
+    "nombreComun": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "poblacion": 128932753
+  }
+]
